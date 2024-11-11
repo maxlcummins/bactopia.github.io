@@ -6,7 +6,7 @@ description: A Bactopia Tool for the automatic selection and executions of  spec
 _MinmER assisted species-specific bactopia tool seLectIoN_, or Merlin, uses distances based
 on the RefSeq sketch downloaded by `bactopia datasets` to automatically run species-specific tools.
 
-Currently Merlin knows 16 spells for which cover the following:
+Currently Merlin knows 20 spells for which cover the following:
 
 | Genus/Species | Tools |
 |---------------|-------|
